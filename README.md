@@ -1,0 +1,1 @@
+# Learning RSpec via Lynda.com => Ruby: Testing with RSpec
